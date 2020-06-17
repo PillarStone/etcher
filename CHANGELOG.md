@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+# v1.5.100
+## (2020-06-17)
+
+* Fix source-selector image height [Lorenzo Alberto Maria Ambrosi]
+* Update rendition to v15.0.0 [Lorenzo Alberto Maria Ambrosi]
+* Merge unsafe mode with new target selector [Lorenzo Alberto Maria Ambrosi]
+* Rework target selector modal [Lorenzo Alberto Maria Ambrosi]
+
 # v1.5.99
 ## (2020-06-12)
 
